@@ -1,6 +1,6 @@
 # Elon_Sherlock
 
-I once came across a news [https://twitter.com/elonmusk/status/1579105206004252677](story) about Tesla's whistleblower identification tactic of sending all employees emails with the same appearance. In fact, however, each email contained variations in the number of spaces between sentences. This created a unique binary signature for each email, allowing for precise identification of the whistleblower. And based on that, I decided to do this task for CTF.
+I once came across a news [story](https://twitter.com/elonmusk/status/1579105206004252677) about Tesla's whistleblower identification tactic of sending all employees emails with the same appearance. In fact, however, each email contained variations in the number of spaces between sentences. This created a unique binary signature for each email, allowing for precise identification of the whistleblower. And based on that, I decided to do this task for CTF.
 
 
 ## Usage
